@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "ig4e",
+  "repo": "container-gyr9x00",
+  "name": "ig4e",
+  "email": "ahmedx793@gmail.com",
+}
